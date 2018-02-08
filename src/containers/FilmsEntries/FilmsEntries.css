@@ -1,0 +1,12 @@
+.form-block{
+    padding: 20px 0;
+}
+.field{
+    padding: 5px;
+    border: 1px solid #ccc;
+    margin-right: 20px;
+    width: 500px;
+}
+.btn{
+    padding: 5px 20px;
+}
